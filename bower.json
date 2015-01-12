@@ -1,0 +1,21 @@
+{
+  "name": "angular-yogga",
+  "version": "0.0.0",
+  "authors": [
+    "Jose Pereyra <jose.pereyra@tektonlabs.com>"
+  ],
+  "description": "angular demo",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.3.8",
+    "normalize.css": "~3.0.2"
+  }
+}
